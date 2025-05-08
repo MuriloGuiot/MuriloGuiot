@@ -24,6 +24,6 @@
   <img align="center" alt="React"        height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="C"            height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   <img align="center" alt="C#"           height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img align = "right" alt ="Gif" src = "https://tenor.com/view/master-jedi-yoda-star-wars-jedi-gif-13780904195180419770" />
+  <img align = "right" alt ="Gif" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZ2eXZpOHducHI4dHVwM2p2ZTgzcngzcGZsZjlzbXJnMGQzN3FkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zQhFEBrX6plKg/giphy.gif" />
 </div>
 
