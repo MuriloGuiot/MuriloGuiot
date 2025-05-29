@@ -1,6 +1,6 @@
 ## Hey! I´m Murilo Guiot
 
-- 🔭 I’m currently working on QA Software Analysis at Pagglo – Loopi Club  
+- 🔭 I’m currently working on React Native App Development at Pagglo – Loopi Club  
 - 🌱 I’m currently learning Data Structure with C and .NET Software Development  
 - 📫 How to reach me: muriloguiot@gmail.com
 
