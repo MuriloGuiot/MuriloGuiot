@@ -34,4 +34,3 @@
   <img align="center" alt="Fork"            height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img align="center" alt="VS Code"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Postman"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
-  <img align="center" alt="Robot Framework" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/robotframework/robotframework-original.svg" />
