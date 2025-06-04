@@ -29,13 +29,9 @@
 
 ### Softwares
 <div style="display: inline-block;"><br>
-  <img align="center" alt="Windows"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
-  <img align="center" alt="Excel"        height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftexcel.svg" />
-  <img align="center" alt="Fork"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img align="center" alt="VS Code"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Postman"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
-</div>
-
-<div style="display: inline-block;"><br>
-  <img align="right" alt="Gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZ2eXZpOHducHI4dHVwM2p2ZTgzcngzcGZsZjlzbXJnMGQzN3FkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zQhFEBrX6plKg/giphy.gif" />
-</div>
+  <img align="center" alt="Windows"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
+  <img align="center" alt="Excel"           height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftexcel.svg" />
+  <img align="center" alt="Fork"            height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img align="center" alt="VS Code"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Postman"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
+  <img align="center" alt="Robot Framework" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/robotframework/robotframework-original.svg" />
