@@ -1,7 +1,7 @@
 ## Hey! I´m Murilo Guiot
 
 - 🔭 I’m currently working on React Native App Development at Pagglo – Loopi Club  
-- 🌱 I’m currently learning Data Structure with C and .NET Software Development  
+- 🌱 I'm currently expanding my knowledge in Data Structures with C, while also applying TypeScript in React Native and studying Object-Oriented Programming in Java.
 - 📫 How to reach me: muriloguiot@gmail.com
 
 <div>
