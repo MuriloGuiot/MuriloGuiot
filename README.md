@@ -31,8 +31,10 @@
 
 ### Softwares
 <div style="display: inline-block;"><br>
-  <img align="center" alt="Windows"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
-  <img align="center" alt="Excel"           height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftexcel.svg" />
-  <img align="center" alt="Fork"            height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img align="center" alt="VS Code"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Postman"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
+  <img align="center" alt="Windows"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
+  <img align="center" alt="Excel"           height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftexcel.svg" />
+  <img align="center" alt="Git"            height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img align="center" alt="VS Code"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Postman"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
+<img align="center" alt="Android Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" />
+</div>
