@@ -4,12 +4,6 @@
 -  Currently expanding my knowledge in Data Structures with C, while also applying TypeScript in React Native and studying Object-Oriented Programming in Java.
 - 📫 How to reach me: muriloguiot@gmail.com
 
-<div>
-  <a href="https://github.com/MuriloGuiot" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloGuiot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloGuiot&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</div>
 
 ### Linguagens de Programação
 <div style="display: inline-block;"><br>
