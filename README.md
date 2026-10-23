@@ -1,6 +1,6 @@
 ## Hey! I´m Murilo Guiot
 
--  I’m currently working on C#/.NET FullStack Development at Loopi Club and As a Software Development Head at AgrocarbonBr;  
+-  I’m currently working on C#/.NET FullStack Development at CooperX;  
 -  Currently expanding my knowledge in .NET applications, while also applying C++ in Competitive Coding;
 - 📫 How to reach me: muriloguiot@gmail.com
 
